@@ -5,8 +5,8 @@ Hoiho
 
 I never expected my birthday reminder app to subvert democracy. I would pay *real American money* for Friendster 2.0 if it did nothing but remind me of my cousins’ birthdays & HS friends’ kids’ softball games.
 
-Hoiho is a notional paid service that lets you:
------------------------------------------------
+Hoiho is the codename for a notional paid service that lets you:
+----------------------------------------------------------------
 
 - aggregate contact data for all the people you know in real life
 - knit them together into networks so you can see who *they* know in real life
