@@ -14,7 +14,8 @@ Hoiho is the codename for a notional paid service that lets you:
 - send photos of your kids’ softball games to your high school friends
 - remind you of your cousins’ birthdays
 - pay a small monthly fee to keep Hoiho running *(“if you’re not paying for it, you’re the product…”)*
-- a [rare antisocial penguin](https://www.bbc.com/news/world-asia-50374092) that communicates with a high-pitched scream
+
+Hoiho is also a [rare antisocial penguin](https://www.bbc.com/news/world-asia-50374092) that communicates with a high-pitched scream
 
 Hoiho isn’t:
 ------------
