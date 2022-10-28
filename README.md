@@ -1,6 +1,8 @@
 Hoiho
 =====
 
+![Closeup of the Hoiho or Yellow-eyed penguin](https://user-images.githubusercontent.com/169060/198718993-87ebd3e9-63d7-4f09-8762-1926618720b2.jpg)
+
 I never expected my birthday reminder app to subvert democracy. I would pay *real American money* for Friendster 2.0 if it did nothing but remind me of my cousins’ birthdays & HS friends’ kids’ softball games.
 
 Hoiho is a notional paid service that lets you:
@@ -31,3 +33,8 @@ And the business plan? And the product spec? And the tech stack? And the license
 __*When can I buy this and what will I get for my money?*__
 
 Keep your pants on. The wiki has a proposed [product definition](https://github.com/axoplasm/hoiho/wiki/Product-definition). 
+
+
+---
+
+*Hoiho penguin photo by [Bernard Spragg](https://www.flickr.com/photos/volvob12b/26256510661)*
