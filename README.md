@@ -30,4 +30,4 @@ And the business plan? And the product spec? And the tech stack? And the license
 
 __*When can I buy this and what will I get for my money?*__
 
-Keep your pants on. Something like a product definition will appear in the wiki. 
+Keep your pants on. The wiki has a proposed [product definition](https://github.com/axoplasm/hoiho/wiki/Product-definition). 
